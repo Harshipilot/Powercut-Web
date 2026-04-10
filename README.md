@@ -1,16 +1,140 @@
-# React + Vite
+# ⚡ PowerCut Web – Smart Power Outage Reporting System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 🚀 A modern web platform to **report, track, and manage power cuts efficiently** between the public and electricity workers.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Introduction
 
-## React Compiler
+**PowerCut Web** is a real-time reporting system designed to bridge the communication gap between citizens and electricity workers.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Instead of confusion during outages, users can:
 
-## Expanding the ESLint configuration
+* 📢 Report power cuts instantly
+* 👀 Track active issues in real-time
+* 👨‍🔧 Allow workers to update and resolve problems efficiently
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🏠 Home Page Preview
+
+![Home Page](https://your-image-link-here.com/homepage.png)
+
+---
+
+## 📌 About the Project
+
+This system ensures:
+
+* ⚡ Faster communication between public and workers
+* 📊 Transparency in issue tracking
+* ⏱️ Reduced response time
+* 🌐 Simple and user-friendly interface
+
+Built with modern technologies to simulate a **real-world smart grid reporting system**.
+
+---
+
+## 📸 System Overview
+
+![System Overview](https://your-image-link-here.com/overview.png)
+
+---
+
+## 👨‍🔧 Worker Dashboard
+
+![Worker Dashboard](https://your-image-link-here.com/worker-dashboard.png)
+
+The worker dashboard is designed for electricity department staff.
+
+### Features:
+
+* 📋 View assigned power cut reports
+* 🔄 Update issue status
+* ✅ Mark issues as resolved
+* 📊 Track all active tasks
+
+### Status Indicators:
+
+* 🟢 **Green** → Issue Resolved
+* 🔴 **Red** → Issue Still Unresolved
+
+---
+
+## 👥 Public Dashboard
+
+![Public Dashboard](https://your-image-link-here.com/public-dashboard.png)
+
+The public interface allows users to interact easily with the system.
+
+### Features:
+
+* 📝 Report a power cut
+* 👀 View ongoing outages
+* 📍 Track status of submitted reports
+
+### Status Indicators:
+
+* 🟢 **Green** → Problem Fixed
+* 🔴 **Red** → Still Under Process
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ React.js
+* 🔥 Firebase (Authentication + Firestore)
+* 🎨 CSS
+
+---
+
+## 🔐 Security Features
+
+* 🔒 Firebase Authentication
+* 🔑 Environment variables for API protection
+* 🛡️ Secure Firestore rules
+
+---
+
+## 🚀 Future Enhancements
+
+* 📍 Live map-based outage tracking
+* 🔔 Real-time notifications
+* 🤖 AI-based outage prediction
+* 📊 Admin analytics dashboard
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Harshipilot/Powercut-Web.git
+cd Powercut-Web
+npm install
+npm start
+```
+
+---
+
+## ⚠️ Note
+
+Firebase configuration is not included for security reasons.
+Create a `.env` file with your own credentials.
+
+---
+
+## 👨‍💻 Author
+
+**Harshi Pilot**
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🚀 Share it
+
+---
