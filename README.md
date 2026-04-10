@@ -18,7 +18,7 @@ Instead of confusion during outages, users can:
 
 ## 🏠 Home Page Preview
 
-![Home Page](https://your-image-link-here.com/homepage.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27cd3073-b14f-458b-873f-9b95e48635b5" />
 
 ---
 
