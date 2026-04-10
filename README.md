@@ -18,7 +18,7 @@ Instead of confusion during outages, users can:
 
 ## 🏠 Home Page Preview
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27cd3073-b14f-458b-873f-9b95e48635b5" />
+<img width="1916" height="1001" alt="Image" src="https://github.com/user-attachments/assets/de7753c2-3e79-46e2-a07d-11a4bf256637" />
 
 ---
 
@@ -37,13 +37,13 @@ Built with modern technologies to simulate a **real-world smart grid reporting s
 
 ## 📸 System Overview
 
-![System Overview](https://your-image-link-here.com/overview.png)
+<img width="1920" height="1013" alt="Image" src="https://github.com/user-attachments/assets/a02cae0c-e920-4aa2-8508-17cee2b6d2f6" />
 
 ---
 
 ## 👨‍🔧 Worker Dashboard
 
-![Worker Dashboard](https://your-image-link-here.com/worker-dashboard.png)
+<img width="1920" height="1002" alt="Image" src="https://github.com/user-attachments/assets/2de63d9c-14a1-4796-844c-3b5ff3da87b7" />
 
 The worker dashboard is designed for electricity department staff.
 
@@ -63,7 +63,7 @@ The worker dashboard is designed for electricity department staff.
 
 ## 👥 Public Dashboard
 
-![Public Dashboard](https://your-image-link-here.com/public-dashboard.png)
+<img width="1920" height="1004" alt="Image" src="https://github.com/user-attachments/assets/876855a9-3e85-4670-b211-9445838b50eb" />
 
 The public interface allows users to interact easily with the system.
 
