@@ -13,11 +13,6 @@ dist-ssr/
 # =========================
 # Environment variables (IMPORTANT 🔐)
 # =========================
-.env
-.env.local
-.env.development
-.env.production
-.env.test
 *.local
 
 # =========================
@@ -51,7 +46,6 @@ Thumbs.db
 # =========================
 # Editor / IDE
 # =========================
-.vscode/*
 !.vscode/extensions.json
 .idea/
 *.suo
@@ -66,3 +60,4 @@ Thumbs.db
 .cache/
 .temp/
 .tmp/
+config.bat
